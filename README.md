@@ -1,4 +1,4 @@
-# Controle de Frequência de Ondas Sonoras
+# Controle de Ruídos
 
 ## Descrição
 
